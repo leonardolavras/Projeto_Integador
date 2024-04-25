@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "330410306010",
+    "project_id": "sistemade-cadastro",
+    "storage_bucket": "sistemade-cadastro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330410306010:android:c23a3d0ef00bc1117bf8e3",
+        "android_client_info": {
+          "package_name": "br.com.newponto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK4BFBsYymgBY75biN8oBj7qP68uU-oKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

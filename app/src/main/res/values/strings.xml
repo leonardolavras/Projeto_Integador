@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">New Ponto</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="menu_bottom_bar_login">Tela inicial</string>
+    <string name="menu_bottom_bar_redefinirSenha">Redefinir Senha</string>
+    <string name="menu_bottom_bar_redefinirSenhaDois">Confirme seu codigo</string>
+    <string name="menu_bottom_bar_cadastro">Cadastro</string>
+    <string name="menu_bottom_bar_confirmarCadastro">Confirmação Cadastro</string>
+    <string name="menu_bottom_bar_carregamento">Registrar seu ponto</string>
+</resources>
